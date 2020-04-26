@@ -3,7 +3,7 @@ const moment = require('moment');
 const startWeekOneFrom = moment('2020-04-20')
 
 const createWeekForSidebar = (weekNumber) => {
-  let weekBegins = startWeekOneFrom.add(weekNumber - 1, 'weeks')
+  let weekBegins = startWeekOneFrom.clone().add(parseInt(weekNumber) - 1, 'weeks')
   let week = {
     title: 'Week ' + weekNumber + ' (' + weekBegins.format('MMM D') + ' - ' + weekBegins.clone().add(6, 'days').format('MMM D') + ')',
     collapsable: false,
@@ -29,6 +29,7 @@ module.exports =  {
       title: 'Getting Started',
       path: '/guide/'
     },
-    createWeekForSidebar(2)
+    createWeekForSidebar(2),
+    createWeekForSidebar(1)
   ]
 }
