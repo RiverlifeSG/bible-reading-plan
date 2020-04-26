@@ -1,6 +1,6 @@
 ### Week 2
 
-## Monday
+## Thursday
 
 >  “Whoever says “I know Him” but does not keep His commandments is a liar, and the truth is not in him...” - 1 John 2:4 (ESV)
 
