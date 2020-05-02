@@ -17,6 +17,7 @@ const createWeekForSidebar = (weekNumber) => {
       { title: 'Friday (' + weekBegins.clone().add(4, 'days').format('MMM D') + ')', path: '/week-' + weekNumber + '/friday/' },
       { title: 'Saturday (' + weekBegins.clone().add(5, 'days').format('MMM D') + ')', path: '/week-' + weekNumber + '/saturday/' },
       { title: 'Sunday (' + weekBegins.clone().add(6, 'days').format('MMM D') + ')', path: '/week-' + weekNumber + '/sunday/' },
+      { title: 'Additional Resources', path: '/week-' + weekNumber + '/additional/' },
     ]
   }
 
@@ -29,6 +30,7 @@ module.exports =  {
       title: 'Getting Started',
       path: '/guide/'
     },
+    createWeekForSidebar(3),
     createWeekForSidebar(2),
     createWeekForSidebar(1)
   ]
