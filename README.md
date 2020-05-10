@@ -9,19 +9,19 @@ footer: Made by Buooy with ❤️
 
 <div class="features">
   <div class="feature">
-    <h2>Week 3</h2>
-    <p>May 04 - May 10
+    <h2>Week 4</h2>
+    <p>May 11 - May 17
       <br/>
-      <a href="/week-3">
+      <a href="/week-4">
         Start&nbsp;Reading&nbsp;&rarr;
       </a>
     </p>
   </div>
   <div class="feature">
-    <h2>Week 2</h2>
-    <p>April 27 - May 03
+    <h2>Week 3</h2>
+    <p>May 04 - May 10
       <br/>
-      <a href="/week-2">
+      <a href="/week-3">
         Start&nbsp;Reading&nbsp;&rarr;
       </a>
     </p>
