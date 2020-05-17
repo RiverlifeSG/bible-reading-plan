@@ -30,6 +30,7 @@ module.exports =  {
       title: 'Getting Started',
       path: '/guide/'
     },
+    createWeekForSidebar(5),
     createWeekForSidebar(4),
     createWeekForSidebar(3),
     createWeekForSidebar(2),
