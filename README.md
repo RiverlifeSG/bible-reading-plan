@@ -13,27 +13,27 @@ var day = weekday[d.getDay()];
 
 <header class="hero">
   <p class="action">
-    <a href="/week-5/" class="nav-link action-button">
-      Week 5&nbsp;&rarr;
+    <a href="/week-6/" class="nav-link action-button">
+      Week 6&nbsp;&rarr;
     </a>
   </p>
 </header>
 
 <div class="features">
   <div class="feature">
-    <h2>Week 5</h2>
-    <p>May 18 - May 24
+  <div class="feature">
+    <h2>Week 6</h2>
+    <p>May 25 - May 31
       <br/>
-      <a href="/week-5/">
+      <a href="/week-6/">
         Start&nbsp;Reading&nbsp;&rarr;
       </a>
     </p>
   </div>
-  <div class="feature">
-    <h2>Week 4</h2>
-    <p>May 11 - May 17
+    <h2>Week 5</h2>
+    <p>May 18 - May 24
       <br/>
-      <a href="/week-4/">
+      <a href="/week-5/">
         Start&nbsp;Reading&nbsp;&rarr;
       </a>
     </p>
