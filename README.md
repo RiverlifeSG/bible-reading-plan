@@ -21,7 +21,6 @@ var day = weekday[d.getDay()];
 
 <div class="features">
   <div class="feature">
-  <div class="feature">
     <h2>Week 6</h2>
     <p>May 25 - May 31
       <br/>
@@ -30,6 +29,7 @@ var day = weekday[d.getDay()];
       </a>
     </p>
   </div>
+  <div class="feature">
     <h2>Week 5</h2>
     <p>May 18 - May 24
       <br/>
