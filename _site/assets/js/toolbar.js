@@ -24,11 +24,13 @@
             hideMenu()
         }
     })
-
+    
+    /*
     var welcomeButton = document.getElementsByClassName('welcome-button')[0]
     if (welcomeButton) {
         welcomeButton.onclick = showMenu
     }
+    */
 
     // Hide site-nav on navigation
     window.addEventListener('link-click', function () {
@@ -84,7 +86,7 @@
         btn.addEventListener('click', function() {
             if (navigator.share) {
                 navigator.share({
-                    title: "Riverlife Bible Reading Plan",
+                    title: "RiverLife Bible Reading Plan",
                     text: document.title,
                     url: window.location.href
                 }).then()
