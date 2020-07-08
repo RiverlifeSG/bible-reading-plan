@@ -6,16 +6,6 @@
     // Also because jsonify doesn't work quite right and collapses the page objects
     // into just strings when we jsonify the whole site
     var pages = [{
-                name: "friday.md",
-                title: "Week 12 | Friday - Bible Reading Plan",
-                url: "/week-12/friday",
-                escapedPath: "week-12/friday.md",
-                dir: "/week-12/",
-                tocId: "toc_/week-12/",
-                documentInfo: ["Week 12",null,["index.md","monday.md","tuesday.md","wednesday.md","thursday.md","friday.md","saturday.md","sunday.md","additional.md"]]
-            },
-            
-        {
                 name: "index.md",
                 title: "Week 12 | Introduction - Riverlife Bible Reading Plan",
                 url: "/week-12/",
@@ -26,63 +16,13 @@
             },
             
         {
-                name: "monday.md",
-                title: "Week 12 | Monday - Bible Reading Plan",
-                url: "/week-12/monday",
-                escapedPath: "week-12/monday.md",
-                dir: "/week-12/",
-                tocId: "toc_/week-12/",
-                documentInfo: ["Week 12",null,["index.md","monday.md","tuesday.md","wednesday.md","thursday.md","friday.md","saturday.md","sunday.md","additional.md"]]
-            },
-            
-        {
-                name: "saturday.md",
-                title: "Week 12 | Saturday - Bible Reading Plan",
-                url: "/week-12/saturday",
-                escapedPath: "week-12/saturday.md",
-                dir: "/week-12/",
-                tocId: "toc_/week-12/",
-                documentInfo: ["Week 12",null,["index.md","monday.md","tuesday.md","wednesday.md","thursday.md","friday.md","saturday.md","sunday.md","additional.md"]]
-            },
-            
-        {
-                name: "sunday.md",
-                title: "Week 12 | Sunday - Bible Reading Plan",
-                url: "/week-12/sunday",
-                escapedPath: "week-12/sunday.md",
-                dir: "/week-12/",
-                tocId: "toc_/week-12/",
-                documentInfo: ["Week 12",null,["index.md","monday.md","tuesday.md","wednesday.md","thursday.md","friday.md","saturday.md","sunday.md","additional.md"]]
-            },
-            
-        {
-                name: "thursday.md",
-                title: "Week 12 | Thursday - Bible Reading Plan",
-                url: "/week-12/thursday",
-                escapedPath: "week-12/thursday.md",
-                dir: "/week-12/",
-                tocId: "toc_/week-12/",
-                documentInfo: ["Week 12",null,["index.md","monday.md","tuesday.md","wednesday.md","thursday.md","friday.md","saturday.md","sunday.md","additional.md"]]
-            },
-            
-        {
-                name: "tuesday.md",
-                title: "Week 12 | Tuesday - Bible Reading Plan",
-                url: "/week-12/tuesday",
-                escapedPath: "week-12/tuesday.md",
-                dir: "/week-12/",
-                tocId: "toc_/week-12/",
-                documentInfo: ["Week 12",null,["index.md","monday.md","tuesday.md","wednesday.md","thursday.md","friday.md","saturday.md","sunday.md","additional.md"]]
-            },
-            
-        {
-                name: "wednesday.md",
-                title: "Week 12 | Wednesday - Bible Reading Plan",
-                url: "/week-12/wednesday",
-                escapedPath: "week-12/wednesday.md",
-                dir: "/week-12/",
-                tocId: "toc_/week-12/",
-                documentInfo: ["Week 12",null,["index.md","monday.md","tuesday.md","wednesday.md","thursday.md","friday.md","saturday.md","sunday.md","additional.md"]]
+                name: "index.md",
+                title: "Week 11 - Bible Reading Plan",
+                url: "/week-11/",
+                escapedPath: "week-11/index.md",
+                dir: "/week-11/",
+                tocId: "toc_/week-11/",
+                documentInfo: ["Week 11",null,["index.md"]]
             },
             
         
@@ -105,26 +45,6 @@
                 dir: "/week-10/",
                 tocId: "toc_/week-10/",
                 documentInfo: ["Week 10",null,["index.md"]]
-            },
-            
-        {
-                name: "index.md",
-                title: "Coming Soon",
-                url: "/week-11/",
-                escapedPath: "week-11/index.md",
-                dir: "/week-11/",
-                tocId: "toc_/week-11/",
-                documentInfo: ["Week 11",null,["index.md"]]
-            },
-            
-        {
-                name: "additional.md",
-                title: "Additional Resources",
-                url: "/week-12/additional",
-                escapedPath: "week-12/additional.md",
-                dir: "/week-12/",
-                tocId: "toc_/week-12/",
-                documentInfo: ["Week 12",null,["index.md","monday.md","tuesday.md","wednesday.md","thursday.md","friday.md","saturday.md","sunday.md","additional.md"]]
             },
             
         {

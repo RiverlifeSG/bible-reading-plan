@@ -269,7 +269,7 @@
         var searchResult = document.createElement('div')
         var searchTitle = document.createElement('p')
         searchTitle.className = 'search-title'
-        searchTitle.innerHTML = result.documentTitle || "Riverlife Bible Reading Plan"
+        searchTitle.innerHTML = result.documentTitle || "RiverLife Bible Reading Plan"
         searchResult.appendChild(searchTitle)
         var searchSubtitle = document.createElement('p')
         searchSubtitle.className = 'search-subtitle'
