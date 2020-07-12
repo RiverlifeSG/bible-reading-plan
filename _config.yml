@@ -1,7 +1,7 @@
 title: RiverLife Bible Reading Plan #----> Required
 remote_theme: wharrf/brp-theme
 timezone: Asia/Singapore
-repository: Buooy/Opendoc-SG-Editor #----> Required
+repository: Buooy/Opendoc #----> Required
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
