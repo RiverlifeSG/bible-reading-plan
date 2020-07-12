@@ -44,7 +44,7 @@
     var editButtons = document.querySelectorAll('.edit-btn')
     editButtons.forEach(function (btn) {
         btn.addEventListener('click', function () {
-            var repoUrl = 'https://github.com/Buooy/Opendoc-SG-Editor' + '/blob/master/'
+            var repoUrl = 'https://github.com/Buooy/Opendoc' + '/blob/master/'
             var page = pageIndex[window.location.pathname]
             var pageUrl = page ? page.escapedPath : null
             if (pageUrl) {
@@ -63,7 +63,7 @@
     printButtons.forEach(function (btn) {
         btn.addEventListener('click', function () {
             // S3 folder name; replace slashes to avoid creating sub-folders
-            var replacedRepoName = 'Buooy/Opendoc-SG-Editor'.replace(/\//g, '-') + (isProd ? '' : '-staging')
+            var replacedRepoName = 'Buooy/Opendoc'.replace(/\//g, '-') + (isProd ? '' : '-staging')
             var pdfUrl = 'true' === 'true' ?
                 '/assets/pdfs' :
                 'https://opendoc-theme-pdf.s3-ap-southeast-1.amazonaws.com/' + replacedRepoName

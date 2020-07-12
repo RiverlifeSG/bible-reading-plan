@@ -48,7 +48,7 @@
     // ===========================================================================
     var endpoint = null
     var env = 'development'
-    var elasticSearchIndex = 'Buooy-Opendoc-SG-Editor'
+    var elasticSearchIndex = 'Buooy-Opendoc'
 
     if (env === 'production') {
         endpoint = 'https://search.opendoc.sg/' + elasticSearchIndex

@@ -7,12 +7,22 @@
     // into just strings when we jsonify the whole site
     var pages = [{
                 name: "index.md",
+                title: "Week 13 | Introduction - Riverlife Bible Reading Plan",
+                url: "/week-13/",
+                escapedPath: "week-13/index.md",
+                dir: "/week-13/",
+                tocId: "toc_/week-13/",
+                documentInfo: ["Week 13",null,["index.md"]]
+            },
+            
+        {
+                name: "index.md",
                 title: "Week 12 | Introduction - Riverlife Bible Reading Plan",
                 url: "/week-12/",
                 escapedPath: "week-12/index.md",
                 dir: "/week-12/",
                 tocId: "toc_/week-12/",
-                documentInfo: ["Week 12",null,["index.md","monday.md","tuesday.md","wednesday.md","thursday.md","friday.md","saturday.md","sunday.md","additional.md"]]
+                documentInfo: ["Week 12",null,["index.md"]]
             },
             
         {

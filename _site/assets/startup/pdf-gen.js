@@ -17,7 +17,7 @@ const S3_STORAGE_URL = new URL('https://opendoc-theme-pdf.s3-ap-southeast-1.amaz
 const BASEURL = ''.replace('/', '')
 const LOCAL_PDF_DOLER = path.join(SITE_PATH, 'assets', 'pdfs') // local folder for pdfs
  // S3 folder; replace slashes to avoid creating sub-folders
-const S3_PDF_FOLDER = 'Buooy/Opendoc-SG-Editor'.replace(/\//g, '-') + (IS_PROD ? '' : '-staging')
+const S3_PDF_FOLDER = 'Buooy/Opendoc'.replace(/\//g, '-') + (IS_PROD ? '' : '-staging')
 
 const BUCKET_NAME = S3_STORAGE_URL.hostname.split('.')[0]
 
