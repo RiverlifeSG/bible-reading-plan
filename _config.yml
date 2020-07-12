@@ -11,7 +11,7 @@ logo: /assets/logo.png
 image: /assets/logo.png
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
-google_analytics:  #----> Optional, Google analytics ID
+google_analytics:  '164700690-1' #----> Optional, Google analytics ID
 
 fast_build: false
 offline: true
@@ -24,18 +24,14 @@ styling_options:
   feedback_url: mailto:aaron.lee@buooy.com #----> Optional, feedback url
   
 folders:
+  - name: 'week-13'
+    title: 'Week 13'
+    order:
+      - index.md
   - name: 'week-12'
     title: 'Week 12'
     order:
       - index.md
-      - monday.md
-      - tuesday.md
-      - wednesday.md
-      - thursday.md
-      - friday.md
-      - saturday.md
-      - sunday.md
-      - additional.md
   - name: 'week-11'
     title: 'Week 11'
     order:
