@@ -1,0 +1,19 @@
+[{
+"title": "",
+"documentTitle": "RiverLife Bible Reading Plan",
+"url": "/docs",
+"text": "&lt;h1"
+}
+,{
+"title": "Developer Guide",
+"documentTitle": "RiverLife Bible Reading Plan",
+"url": "/docs#developer-guide",
+"text": "Developer Guide Install a full Ruby development environment. Install Jekyll and bundler gems: gem install jekyll bundler Git clone the repository: git clone https://github.com/RiverlifeSG/bible-reading-plan.git Change into this root directory Build the site and make it available on a local server: bundle exec jekyll serve Browse to http://localhost:4000"
+}
+,{
+"title": "Using the Bible Reading Plan",
+"documentTitle": "Guide",
+"url": "/guide/",
+"text": "Using the Bible Reading Plan The mark of a growing disciple is the discipline to self-feed. During this unprecedented time, the Lord is redirecting His people to pause and rediscover Him and His ways afresh. This is the heart behind our Bible Reading Plan - that we, as a church will delight the Father when we are growing in our love for Him and allowing His Spirit to move us in obeying His Word in our lives. The Bible Reading Plan comprises a daily passage with reflection questions to guide you in meditation. You can also journal what God’s Spirit is prompting you to do in applying the Word. We pray that as you carve out unhurried time to encounter God, you will revitalise your spiritual life and encourage others to experience likewise!"
+}
+]
