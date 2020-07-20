@@ -1,4 +1,16 @@
 [{
+"title": "",
+"documentTitle": "RiverLife Bible Reading Plan",
+"url": "/docs",
+"text": "&lt;h1"
+}
+,{
+"title": "Developer Guide",
+"documentTitle": "RiverLife Bible Reading Plan",
+"url": "/docs#developer-guide",
+"text": "Developer Guide Install a full Ruby development environment. Install Jekyll and bundler gems: gem install jekyll bundler Git clone the repository: git clone https://github.com/RiverlifeSG/bible-reading-plan.git Change into this root directory Build the site and make it available on a local server: bundle exec jekyll serve Browse to http://localhost:4000"
+}
+,{
 "title": "Using the Bible Reading Plan",
 "documentTitle": "Guide",
 "url": "/guide/",
