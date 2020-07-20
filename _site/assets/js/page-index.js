@@ -17,6 +17,16 @@
             
         {
                 name: "index.md",
+                title: "Week 14 | Introduction - Riverlife Bible Reading Plan",
+                url: "/week-14/",
+                escapedPath: "week-14/index.md",
+                dir: "/week-14/",
+                tocId: "toc_/week-14/",
+                documentInfo: ["Week 14",null,["index.md"]]
+            },
+            
+        {
+                name: "index.md",
                 title: "Week 12 | Introduction - Riverlife Bible Reading Plan",
                 url: "/week-12/",
                 escapedPath: "week-12/index.md",
@@ -37,6 +47,16 @@
             
         
         
+        {
+                name: "docs.md",
+                title: "Developer Guide",
+                url: "/docs",
+                escapedPath: "docs.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["RiverLife Bible Reading Plan",null,null]
+            },
+            
         {
                 name: "index.md",
                 title: "Coming Soon",
