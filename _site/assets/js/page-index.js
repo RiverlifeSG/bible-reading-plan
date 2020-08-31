@@ -7,12 +7,12 @@
     // into just strings when we jsonify the whole site
     var pages = [{
                 name: "index.md",
-                title: "Week 13 | Introduction - Riverlife Bible Reading Plan",
-                url: "/week-13/",
-                escapedPath: "week-13/index.md",
-                dir: "/week-13/",
-                tocId: "toc_/week-13/",
-                documentInfo: ["Week 13",null,["index.md"]]
+                title: "Week 16 | Introduction - Riverlife Bible Reading Plan",
+                url: "/week-16/",
+                escapedPath: "week-16/index.md",
+                dir: "/week-16/",
+                tocId: "toc_/week-16/",
+                documentInfo: ["Week 16",null,["index.md"]]
             },
             
         {
@@ -27,6 +27,16 @@
             
         {
                 name: "index.md",
+                title: "Week 15 | Introduction - Riverlife Bible Reading Plan",
+                url: "/week-15/",
+                escapedPath: "week-15/index.md",
+                dir: "/week-15/",
+                tocId: "toc_/week-15/",
+                documentInfo: ["Week 15",null,["index.md"]]
+            },
+            
+        {
+                name: "index.md",
                 title: "Week 12 | Introduction - Riverlife Bible Reading Plan",
                 url: "/week-12/",
                 escapedPath: "week-12/index.md",
@@ -37,12 +47,62 @@
             
         {
                 name: "index.md",
+                title: "Week 17 | Introduction - Riverlife Bible Reading Plan",
+                url: "/week-17/",
+                escapedPath: "week-17/index.md",
+                dir: "/week-17/",
+                tocId: "toc_/week-17/",
+                documentInfo: ["Week 17",null,["index.md"]]
+            },
+            
+        {
+                name: "index.md",
+                title: "Week 19 | Introduction - Riverlife Bible Reading Plan",
+                url: "/week-19/",
+                escapedPath: "week-19/index.md",
+                dir: "/week-19/",
+                tocId: "toc_/week-19/",
+                documentInfo: ["Week 19",null,["index.md"]]
+            },
+            
+        {
+                name: "index.md",
+                title: "Week 20 | Introduction - Riverlife Bible Reading Plan",
+                url: "/week-20/",
+                escapedPath: "week-20/index.md",
+                dir: "/week-20/",
+                tocId: "toc_/week-20/",
+                documentInfo: ["Week 20",null,["index.md"]]
+            },
+            
+        {
+                name: "index.md",
+                title: "Week 18 | Introduction - Riverlife Bible Reading Plan",
+                url: "/week-18/",
+                escapedPath: "week-18/index.md",
+                dir: "/week-18/",
+                tocId: "toc_/week-18/",
+                documentInfo: ["Week 18",null,["index.md"]]
+            },
+            
+        {
+                name: "index.md",
                 title: "Week 11 - Bible Reading Plan",
                 url: "/week-11/",
                 escapedPath: "week-11/index.md",
                 dir: "/week-11/",
                 tocId: "toc_/week-11/",
                 documentInfo: ["Week 11",null,["index.md"]]
+            },
+            
+        {
+                name: "index.md",
+                title: "Week 13 | Introduction - Riverlife Bible Reading Plan",
+                url: "/week-13/",
+                escapedPath: "week-13/index.md",
+                dir: "/week-13/",
+                tocId: "toc_/week-13/",
+                documentInfo: ["Week 13",null,["index.md"]]
             },
             
         
