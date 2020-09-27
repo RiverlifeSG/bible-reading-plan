@@ -48,7 +48,7 @@
     // ===========================================================================
     var endpoint = null
     var env = 'development'
-    var elasticSearchIndex = 'Buooy-Opendoc'
+    var elasticSearchIndex = 'RiverlifeSG-bible-reading-plan'
 
     if (env === 'production') {
         endpoint = 'https://search.opendoc.sg/' + elasticSearchIndex

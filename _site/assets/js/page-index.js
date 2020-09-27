@@ -27,6 +27,36 @@
             
         {
                 name: "index.md",
+                title: "Week 22 | Introduction - Riverlife Bible Reading Plan",
+                url: "/week-22/",
+                escapedPath: "week-22/index.md",
+                dir: "/week-22/",
+                tocId: "toc_/week-22/",
+                documentInfo: ["Week 22",null,["index.md"]]
+            },
+            
+        {
+                name: "index.md",
+                title: "Week 24",
+                url: "/week-24/",
+                escapedPath: "week-24/index.md",
+                dir: "/week-24/",
+                tocId: "toc_/week-24/",
+                documentInfo: ["Week 24",null,["index.md"]]
+            },
+            
+        {
+                name: "index.md",
+                title: "Week 23 | Introduction - Riverlife Bible Reading Plan",
+                url: "/week-23/",
+                escapedPath: "week-23/index.md",
+                dir: "/week-23/",
+                tocId: "toc_/week-23/",
+                documentInfo: ["Week 23",null,["index.md"]]
+            },
+            
+        {
+                name: "index.md",
                 title: "Week 15 | Introduction - Riverlife Bible Reading Plan",
                 url: "/week-15/",
                 escapedPath: "week-15/index.md",
@@ -63,6 +93,16 @@
                 dir: "/week-19/",
                 tocId: "toc_/week-19/",
                 documentInfo: ["Week 19",null,["index.md"]]
+            },
+            
+        {
+                name: "index.md",
+                title: "Week 21 | Introduction - Riverlife Bible Reading Plan",
+                url: "/week-21/",
+                escapedPath: "week-21/index.md",
+                dir: "/week-21/",
+                tocId: "toc_/week-21/",
+                documentInfo: ["Week 21",null,["index.md"]]
             },
             
         {
@@ -108,6 +148,16 @@
         
         
         {
+                name: "SECURITY.md",
+                title: "Security Policy",
+                url: "/SECURITY",
+                escapedPath: "SECURITY.md",
+                dir: "/",
+                tocId: "toc_/",
+                documentInfo: ["RiverLife Bible Reading Plan",null,null]
+            },
+            
+        {
                 name: "docs.md",
                 title: "Developer Guide",
                 url: "/docs",
@@ -119,7 +169,7 @@
             
         {
                 name: "index.md",
-                title: "Coming Soon",
+                title: "Week 1",
                 url: "/week-1/",
                 escapedPath: "week-1/index.md",
                 dir: "/week-1/",
@@ -129,7 +179,7 @@
             
         {
                 name: "index.md",
-                title: "Coming Soon",
+                title: "WEEK 10",
                 url: "/week-10/",
                 escapedPath: "week-10/index.md",
                 dir: "/week-10/",
@@ -139,7 +189,7 @@
             
         {
                 name: "index.md",
-                title: "Coming Soon",
+                title: "Week 2",
                 url: "/week-2/",
                 escapedPath: "week-2/index.md",
                 dir: "/week-2/",
@@ -149,7 +199,7 @@
             
         {
                 name: "index.md",
-                title: "Coming Soon",
+                title: "Week 3",
                 url: "/week-3/",
                 escapedPath: "week-3/index.md",
                 dir: "/week-3/",
@@ -159,7 +209,7 @@
             
         {
                 name: "index.md",
-                title: "Coming Soon",
+                title: "Week 4",
                 url: "/week-4/",
                 escapedPath: "week-4/index.md",
                 dir: "/week-4/",
@@ -169,7 +219,7 @@
             
         {
                 name: "index.md",
-                title: "Coming Soon",
+                title: "Week 5",
                 url: "/week-5/",
                 escapedPath: "week-5/index.md",
                 dir: "/week-5/",
@@ -179,7 +229,7 @@
             
         {
                 name: "index.md",
-                title: "Coming Soon",
+                title: "Week 6",
                 url: "/week-6/",
                 escapedPath: "week-6/index.md",
                 dir: "/week-6/",
@@ -189,7 +239,7 @@
             
         {
                 name: "index.md",
-                title: "Coming Soon",
+                title: "Week 7",
                 url: "/week-7/",
                 escapedPath: "week-7/index.md",
                 dir: "/week-7/",
@@ -199,7 +249,7 @@
             
         {
                 name: "index.md",
-                title: "Coming Soon",
+                title: "Week 8",
                 url: "/week-8/",
                 escapedPath: "week-8/index.md",
                 dir: "/week-8/",
@@ -209,7 +259,7 @@
             
         {
                 name: "index.md",
-                title: "Coming Soon",
+                title: "Week 9",
                 url: "/week-9/",
                 escapedPath: "week-9/index.md",
                 dir: "/week-9/",

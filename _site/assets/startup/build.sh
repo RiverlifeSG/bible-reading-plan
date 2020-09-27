@@ -12,7 +12,7 @@ else
     then
       echo 'Warning: aws is not installed. Please setup github webhooks for elasticsearch indexing'
     else
-      APP_NAME="Opendoc"
+      APP_NAME="bible-reading-plan"
       echo "APP_NAME = $APP_NAME"
       if [ "${AWS_BRANCH}" = "master" ]; then
         echo "Building prod elasticsearch index for $APP_NAME";
