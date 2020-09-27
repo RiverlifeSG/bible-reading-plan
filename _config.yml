@@ -1,7 +1,7 @@
 title: RiverLife Bible Reading Plan #----> Required
 remote_theme: wharrf/brp-theme
 timezone: Asia/Singapore
-repository: Buooy/Opendoc #----> Required
+repository: RiverlifeSG/bible-reading-plan #----> Required
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
@@ -18,12 +18,16 @@ offline: true
 preload_pages: true
 
 styling_options:
-  primary_brand_color: '#3eaf7c'  #----> Optional, theme color
+  primary_brand_color: '#25408F'  #----> Optional, theme color
   logo_path: /assets/logo.png  #----> Optional, path to logo
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url: mailto:aaron.lee@buooy.com #----> Optional, feedback url
   
 folders:
+  - name: 'week-24'
+    title: 'Week 24'
+    order:
+      - index.md
   - name: 'week-23'
     title: 'Week 23'
     order:
