@@ -24,6 +24,10 @@ styling_options:
   feedback_url: mailto:aaron.lee@buooy.com #----> Optional, feedback url
   
 folders:
+  - name: 'week-25'
+    title: 'Week 25'
+    order:
+      - index.md
   - name: 'week-24'
     title: 'Week 24'
     order:
